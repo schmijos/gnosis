@@ -1,5 +1,5 @@
 # ⚠️ This repository is not the newest version ⚠️
-This Repository is just an archive of the project. It has been archived on the 5th of june 2023 as that is the hand in date for my IPA. For the newest version, check out the [Renuo AG](https://github.com/renuo/), they are the official maintainers.
+This Repository is just an archive of the project. It has been archived on the 5th of june 2023 as that is the hand in date for my IPA. For the newest version, check out the [Renuo AG](https://github.com/renuo/gnosis), they are the official maintainers.
 
 # gnosis
 Welcome to gnosis!  
